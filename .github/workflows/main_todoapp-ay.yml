@@ -51,4 +51,4 @@ jobs:
         with:
           app-name: 'todoapp-ay'
           publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_84F2A650812E4B0DBEB926D4724A1DC1 }}
-          package: ./dist/todoapp-angular
+          package: ./dist/getbuddies
